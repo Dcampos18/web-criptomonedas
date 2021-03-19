@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-criptomonedas/static/css/main.63735087.chunk.css",
+    "main.js": "/web-criptomonedas/static/js/main.7a187a5b.chunk.js",
+    "main.js.map": "/web-criptomonedas/static/js/main.7a187a5b.chunk.js.map",
+    "runtime-main.js": "/web-criptomonedas/static/js/runtime-main.9827b453.js",
+    "runtime-main.js.map": "/web-criptomonedas/static/js/runtime-main.9827b453.js.map",
+    "static/js/2.6f21daa8.chunk.js": "/web-criptomonedas/static/js/2.6f21daa8.chunk.js",
+    "static/js/2.6f21daa8.chunk.js.map": "/web-criptomonedas/static/js/2.6f21daa8.chunk.js.map",
+    "static/js/3.cf13fda8.chunk.js": "/web-criptomonedas/static/js/3.cf13fda8.chunk.js",
+    "static/js/3.cf13fda8.chunk.js.map": "/web-criptomonedas/static/js/3.cf13fda8.chunk.js.map",
+    "index.html": "/web-criptomonedas/index.html",
+    "static/css/main.63735087.chunk.css.map": "/web-criptomonedas/static/css/main.63735087.chunk.css.map",
+    "static/js/2.6f21daa8.chunk.js.LICENSE.txt": "/web-criptomonedas/static/js/2.6f21daa8.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/web-criptomonedas/static/media/cryptomonedas.51f1d2ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9827b453.js",
+    "static/js/2.6f21daa8.chunk.js",
+    "static/css/main.63735087.chunk.css",
+    "static/js/main.7a187a5b.chunk.js"
+  ]
+}
