@@ -27,7 +27,7 @@ const Formulario = ({guardarMoneda,  guardarCriptomoneda }) => {
         {codigo: 'EUR', nombre: 'Euro'},
         {codigo: 'GBP', nombre: 'Libra Esterlina'}
     ]
-
+    // Primer valor es la variable, el segundo valor es la funcion que se va usar y asignar a la variable 1
     const [ listaCripto, guardardarCriptomonedas ] = useState([])
     const [ error, guardarError ] = useState(false)
 

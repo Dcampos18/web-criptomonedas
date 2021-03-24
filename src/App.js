@@ -1,7 +1,15 @@
 import React, {useState, useEffect} from 'react';
+
+//Importacion de estilos
 import styled from '@emotion/styled';
+
+// Importacion de axios
 import axios from 'axios';
+
+// Importacion imagen
 import imagen from './cryptomonedas.png';
+
+// Importacion de nuestros componentes
 import Formulario from './componentes/Formulario';
 import Cotizacion from './componentes/Cotizacion';
 import Spinner from './componentes/Spinner';
@@ -57,6 +65,7 @@ function App() {
           const url = `https://min-api.cryptocompare.com/data/pricemultifull?fsyms=${criptomoneda}&tsyms=${moneda}`;
 
           const resultado = await axios.get(url);
+          
 
           // mostrar el spinner
           guardarCargando(true);
@@ -89,7 +98,7 @@ function App() {
         </div>
         <div>
             <Heading>Cotiza Criptomonedas al Instante</Heading>
-
+          
             <Formulario 
               guardarMoneda={guardarMoneda}
               guardarCriptomoneda={guardarCriptomoneda}
